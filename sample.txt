@@ -1,0 +1,4 @@
+This is a simple text file.
+It contains multiple lines.
+Hello, Python!
+ Learning file handling in Python
